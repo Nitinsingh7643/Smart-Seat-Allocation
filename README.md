@@ -1,6 +1,11 @@
 # SmartSeat — Intelligent Office Seat Management System
+//DASHBOARD
 <img width="1860" height="1042" alt="Screenshot 2026-02-26 171225" src="https://github.com/user-attachments/assets/1a4e819b-6279-4e30-9fc1-bb99e69528e6" />
 <img width="1505" height="796" alt="Screenshot 2026-02-26 171554" src="https://github.com/user-attachments/assets/4e22d9ca-ef03-4e6f-949c-120789e4b015" />
+//LANDING PAGE
+<img width="1905" height="1067" alt="image" src="https://github.com/user-attachments/assets/bf0812e8-1de7-4d6a-ab14-60ec5b908b99" />
+<img width="1614" height="762" alt="image" src="https://github.com/user-attachments/assets/69cdbe78-fcc2-4ada-90f1-6c40596de32c" />
+<img width="1858" height="862" alt="image" src="https://github.com/user-attachments/assets/5789a8bd-a2a3-4044-a65a-2fefe136769b" />
 
 
 
