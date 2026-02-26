@@ -1,3 +1,6 @@
+![1000218774](https://github.com/user-attachments/assets/a31e00c4-c134-46a6-95af-dba444526093)
+
+
 # Smart Office Seat Booking System
 
 A production-ready booking system for managing office occupancy efficiently.
