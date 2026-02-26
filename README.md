@@ -1,4 +1,8 @@
-![1000218774](https://github.com/user-attachments/assets/a31e00c4-c134-46a6-95af-dba444526093)
+//Dashboard
+<img width="1860" height="1042" alt="Screenshot 2026-02-26 171225" src="https://github.com/user-attachments/assets/4c24bbb1-a4f9-4870-81c7-2a0ce573e6bf" />
+<img width="1505" height="796" alt="Screenshot 2026-02-26 171554" src="https://github.com/user-attachments/assets/8c7ced04-caf6-43e0-8336-e9ee9e62340f" />
+//Landing page
+
 
 
 # Smart Office Seat Booking System
