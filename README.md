@@ -1,4 +1,8 @@
 # SmartSeat — Intelligent Office Seat Management System
+<img width="1860" height="1042" alt="Screenshot 2026-02-26 171225" src="https://github.com/user-attachments/assets/1a4e819b-6279-4e30-9fc1-bb99e69528e6" />
+<img width="1505" height="796" alt="Screenshot 2026-02-26 171554" src="https://github.com/user-attachments/assets/4e22d9ca-ef03-4e6f-949c-120789e4b015" />
+
+
 
 > A full-stack hybrid workforce seat management platform with dynamic floater pools, batch scheduling, rule-engine validation, and real-time seat availability.
 
